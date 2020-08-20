@@ -1,0 +1,45 @@
+.link1:hover {
+    color: lightblue;
+    font-size: 900;
+}
+.link2:active {
+    color: red;
+    font-style: italic;
+}
+.link3:visited {
+    color: yellow;   
+}
+input {
+    color: green;
+    font-size: 20px;
+}
+ul {
+    display: flex;
+    justify-content: right;
+    list-style: none;
+    margin: 0;
+}
+a {
+    padding: 10px;
+    margin: 0 ;
+    padding-left: 0;
+}
+header {
+    margin: 0;
+}
+nav {
+    margin: 0 auto;
+    background: darkblue;
+}
+.currentpage {
+    color: lightgray;
+}
+a:hover {
+    background: lightblue;
+}
+body {
+    margin: 0;
+}
+input:focus {
+    border: aqua 1px solid;
+}
